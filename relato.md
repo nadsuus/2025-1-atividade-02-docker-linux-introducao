@@ -81,7 +81,7 @@ cd ..
 > **Print 2:** Navegação e criação de diretório
 >
 > *Insira aqui o print  mostrando `pwd`, `ls` e `mkdir`*
-> `imagens/print2-navegacao.png`
+> ![iniciando contêiner Docker Fedora](imagens/cmd1.PNG)
 
 ---
 
@@ -100,7 +100,7 @@ Passos:
 > **Print 3:** Criação, cópia e remoção de arquivos
 >
 > *Insira aqui o print mostrando `mv`, `cp` e `rm`*
-> `imagens/print3-manipulacao-arquivos.png`
+>![iniciando contêiner Docker Fedora](imagens/cmd2.PNG)
 
 ---
 
@@ -118,7 +118,7 @@ dnf remove nano -y
 > **Print 4:** Instalação e remoção do nano
 >
 > *Insira aqui o print das saídas do `dnf install` e `dnf remove`*
-> `imagens/print4-gerenciamento-pacotes.png`
+> ![iniciando contêiner Docker Fedora](imagens/cmd3.PNG)
 
 ---
 
@@ -136,7 +136,7 @@ ls -l script.sh
 > **Print 5:** Antes e depois do `chmod`
 >
 > *Insira aqui os prints das permissões antes e depois*
-> `imagens/print5-permissoes.png`
+> ![iniciando contêiner Docker Fedora](imagens/cmd4.PNG)
 
 ---
 
@@ -155,7 +155,7 @@ ps aux | grep sleep
 > **Print 6:** Listagem de processos e encerramento
 >
 > *Insira aqui o print mostrando `ps aux`, `grep sleep` e `kill`*
-> `imagens/print6-processos.png`
+> ![iniciando contêiner Docker Fedora](imagens/cmd5.PNG)
 
 ---
 
@@ -169,7 +169,7 @@ docker rm fedora-tutorial
 > **Print 7:** Saída do contêiner e remoção
 >
 > *Insira aqui o print mostrando a remoção do contêiner*
-> `imagens/print7-encerramento.png`
+![iniciando contêiner Docker Fedora](imagens/cmd6.PNG)
 
 ---
 
