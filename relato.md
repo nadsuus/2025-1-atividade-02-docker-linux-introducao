@@ -118,7 +118,7 @@ dnf remove nano -y
 > **Print 4:** Instalação e remoção do nano
 >
 > *Insira aqui o print das saídas do `dnf install` e `dnf remove`*
-> ![iniciando contêiner Docker Fedora](imagens/cmd3.PNG)
+> ![iniciando contêiner Docker Fedora](imagens/cmd5.PNG)
 
 ---
 
@@ -136,7 +136,7 @@ ls -l script.sh
 > **Print 5:** Antes e depois do `chmod`
 >
 > *Insira aqui os prints das permissões antes e depois*
-> ![iniciando contêiner Docker Fedora](imagens/cmd4.PNG)
+> 
 
 ---
 
@@ -155,7 +155,7 @@ ps aux | grep sleep
 > **Print 6:** Listagem de processos e encerramento
 >
 > *Insira aqui o print mostrando `ps aux`, `grep sleep` e `kill`*
-> ![iniciando contêiner Docker Fedora](imagens/cmd5.PNG)
+
 
 ---
 
@@ -169,7 +169,7 @@ docker rm fedora-tutorial
 > **Print 7:** Saída do contêiner e remoção
 >
 > *Insira aqui o print mostrando a remoção do contêiner*
-![iniciando contêiner Docker Fedora](imagens/cmd6.PNG)
+
 
 ---
 
