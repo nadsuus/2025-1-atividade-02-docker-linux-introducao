@@ -58,11 +58,9 @@ O objetivo desta atividade é familiarizar-se com comandos básicos de sistemas 
 docker run -it --name fedora-tutorial fedora:latest /bin/bash
 ```
 
-> **Print 1:** Início do contêiner
->
-> *Insira aqui o print da tela do terminal*
+> **Print 1:** Início do contêiner 
+> ![Print 1 – iniciando contêiner Docker Fedora](imagens/cmd1.PNG)
 
-> `imagens/cmd1.PNG`
 
 
 ---
