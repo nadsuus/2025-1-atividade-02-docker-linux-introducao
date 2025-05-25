@@ -155,7 +155,7 @@ ps aux | grep sleep
 > **Print 6:** Listagem de processos e encerramento
 >
 > *Insira aqui o print mostrando `ps aux`, `grep sleep` e `kill`*
-
+![iniciando contêiner Docker Fedora](imagens/cmd7.PNG)
 
 ---
 
