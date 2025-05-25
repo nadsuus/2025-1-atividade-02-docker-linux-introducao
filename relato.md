@@ -136,7 +136,7 @@ ls -l script.sh
 > **Print 5:** Antes e depois do `chmod`
 >
 > *Insira aqui os prints das permissões antes e depois*
-> 
+> ![iniciando contêiner Docker Fedora](imagens/cmd6.PNG)
 
 ---
 
