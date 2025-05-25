@@ -62,7 +62,7 @@ docker run -it --name fedora-tutorial fedora:latest /bin/bash
 >
 > *Insira aqui o print da tela do terminal*
 
-> `imagens/print1-iniciar-container.png`
+> `imagens/cmd1.PNG`
 
 
 ---
