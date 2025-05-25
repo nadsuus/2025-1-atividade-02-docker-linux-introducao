@@ -7,8 +7,8 @@ Este repositório contém o relatório da **Atividade 02** da disciplina **Siste
 ## 1. Cabeçalho
 
 * **Título da atividade**: Introdução a Linux usando Docker no Windows
-* **Aluno**: *Nadson Santos Nascimento*
-* **Data**: *25/05/2025*
+* **Aluno**: *Seu Nome Aqui*
+* **Data**: *DD/MM/AAAA*
 
 ---
 
@@ -58,10 +58,8 @@ O objetivo desta atividade é familiarizar-se com comandos básicos de sistemas 
 docker run -it --name fedora-tutorial fedora:latest /bin/bash
 ```
 
-> **Print 1:** Início do contêiner 
-> ![Print 1 – iniciando contêiner Docker Fedora](imagens/cmd1.PNG)
-
-
+> **Print 1:** Início do contêiner
+> ![Iniciando contêiner Docker Fedora](imagens/cmdinicio.PNG)
 
 ---
 
@@ -79,9 +77,7 @@ cd ..
 ```
 
 > **Print 2:** Navegação e criação de diretório
->
-> *Insira aqui o print  mostrando `pwd`, `ls` e `mkdir`*
-> ![iniciando contêiner Docker Fedora](imagens/cmd1.PNG)
+> ![Navegação e criação de diretório](imagens/cmd1.PNG)
 
 ---
 
@@ -98,9 +94,7 @@ Passos:
 7. `ls atividades/backup/`
 
 > **Print 3:** Criação, cópia e remoção de arquivos
->
-> *Insira aqui o print mostrando `mv`, `cp` e `rm`*
->![iniciando contêiner Docker Fedora](imagens/cmd2.PNG)
+> ![Criação, cópia e remoção de arquivos](imagens/cmd2.PNG)
 
 ---
 
@@ -116,9 +110,7 @@ dnf remove nano -y
 ```
 
 > **Print 4:** Instalação e remoção do nano
->
-> *Insira aqui o print das saídas do `dnf install` e `dnf remove`*
-> ![iniciando contêiner Docker Fedora](imagens/cmd5.PNG)
+> ![Instalação e remoção do nano](imagens/cmd5.PNG)
 
 ---
 
@@ -133,10 +125,8 @@ chmod u+x script.sh
 ls -l script.sh
 ```
 
-> **Print 5:** Antes e depois do `chmod`
->
-> *Insira aqui os prints das permissões antes e depois*
-> ![iniciando contêiner Docker Fedora](imagens/cmd6.PNG)
+> **Print 5:** Antes e depois do chmod
+> ![Antes e depois do chmod](imagens/cmd6.PNG)
 
 ---
 
@@ -153,9 +143,7 @@ ps aux | grep sleep
 ```
 
 > **Print 6:** Listagem de processos e encerramento
->
-> *Insira aqui o print mostrando `ps aux`, `grep sleep` e `kill`*
-![iniciando contêiner Docker Fedora](imagens/cmd7.PNG)
+> ![Listagem de processos e encerramento](imagens/cmd7.PNG)
 
 ---
 
@@ -167,16 +155,6 @@ docker rm fedora-tutorial
 ```
 
 > **Print 7:** Saída do contêiner e remoção
->
-> *Insira aqui o print mostrando a remoção do contêiner*
-
+> ![Saída do contêiner e remoção](imagens/cmdEncerramento.PNG)
 
 ---
-
-## 7. Conclusão
-
-Neste relatório, executei os principais comandos básicos do Linux em um contêiner Fedora. Aprendi a navegar na hierarquia de diretórios, manipular arquivos, gerenciar pacotes, alterar permissões e controlar processos. Essas habilidades são fundamentais para o gerenciamento de sistemas Linux.
-
----
-
-*Fim do README.md*
